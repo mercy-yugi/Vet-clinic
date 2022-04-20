@@ -84,7 +84,8 @@ p{
 
 }
 .container2{
-    background-color:rgb(248,254,255);
+    background-color:rgb(241, 247, 248);
+    
     
 }
 #head2{
@@ -112,14 +113,30 @@ p{
     margin-left: 90px;
     margin-top: 100px;
     border-radius: 5px;
-    text-align: center;
+    
 
 }
-#radiology{
-    margin-left: 15px;
-    margin-top: 120px;
-    font-size: 20px;
-} 
+#airplay{
+    display: inline-block;  
+    margin-left: 20px;
+    background-color: white; 
+    padding: 20px;
+   border-radius: 30px;
+   background-color: rgb(233,250,252);
+   height: 8px;
+   margin-top: 40px;
+}
+
+#expl-title{
+   margin-left: 25px;
+   font-size: 18px;
+   padding-top: 10px;
+}
+#expl{
+    margin-left: 20px;
+    padding-top: 7px;
+    color: rgb(163,166,187);
+}
 
 .services2{
     width: 270px;
@@ -141,6 +158,7 @@ p{
 
 .column-2{
     display: flex;
+    
 }
 .services4{
     width: 270px;
@@ -167,7 +185,10 @@ p{
     margin-left: 90px;
     margin-top: 100px;
     border-radius: 5px;
-} 
+}  
+.container3{
+    display: flex;
+}
 .best-vet{
     width: 350px;
     height: 450px;
@@ -178,6 +199,7 @@ p{
     float: left;
     margin-right: 100px;
 }
+
 #doc1a{
     margin-left: -70px;
     padding-top: 93px;
@@ -395,17 +417,17 @@ font-size: 18px;
 }
 .footer{
     display: flex;
-    color:rgb(194,196,210);
+    color:rgb(118, 122, 150);
     
 
 }
 .pet{
-    margin-left: 60px;
-    padding-right: 180px;
+    margin-left: 90px;
+    padding-right: 170px;
 }
 .product{
-    padding-right: 180px;
+    padding-right: 170px;
 }
 .community{
-    padding-right: 180px;
+    padding-right: 170px;
 }
