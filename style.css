@@ -4,6 +4,13 @@ body{
 .container1{
     background-color: rgb(233,250,252);
 }
+ ul{
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    font-size: 17px;
+    color:rgb(19, 76, 126)
+}
 #header{
     float:left;
     color:rgb(23, 23, 37);
@@ -19,6 +26,7 @@ body{
     float: right;
     display: flex;
     margin-top: 20px;
+    
 }
 h3{
     padding: 95px;
